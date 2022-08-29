@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 function maiorQueNum(array, num){
     let resultado = []
     for(let i = 0; i < array.length; i++){
@@ -12,7 +12,6 @@ function maiorQueNum(array, num){
 }
 
 
-=======
 function maiorQueNum(array, num){
     let resultado = []
     for(let i = 0; i < array.length; i++){
@@ -26,4 +25,4 @@ function maiorQueNum(array, num){
 }
 
 
->>>>>>> d20391878a02417de50d52f88a1c9cca1d15c51c
+

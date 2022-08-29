@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 function calculaGostos(notas){
     
     let primeiro = 0
@@ -15,7 +15,8 @@ function calculaGostos(notas){
     }
     let resultado = [primeiro, segundo, terceiro]
     return resultado
-=======
+}
+
 function calculaGostos(notas){
     
     let primeiro = 0
@@ -32,5 +33,5 @@ function calculaGostos(notas){
     }
     let resultado = [primeiro, segundo, terceiro]
     return resultado
->>>>>>> d20391878a02417de50d52f88a1c9cca1d15c51c
+
 }
